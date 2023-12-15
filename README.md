@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://twitter.com/jaydatt_khodave" target="blank"><img alt="jaydatt_khodave" src="https://img.shields.io/twitter/follow/jaydatt_khodave?logo=twitter&amp;style=for-the-badge" /></a> </p>
 <ul style="text-align: left;">
    <li>🌱 I’m currently learning <b>In Hole World of&nbsp;It Is Unique Official's</b>&nbsp;</li>
-   <li>👨‍💻 All of my projects are available at <a href="https://wwww.itisuniqueblog.com/">https://wwww.itisuniqueblog.com/</a></li>
-   <li>📝 I regularly write articles on <a href="https://wwww.itisuniqueblog.com/">https://wwww.itisuniqueblog.com/</a></li>
+   <li>👨‍💻 All of my projects are available at <a href="https://www.itisuniqueblog.com/">https://www.itisuniqueblog.com/</a></li>
+   <li>📝 I regularly write articles on <a href="https://www.itisuniqueblog.com/">https://wwww.itisuniqueblog.com/</a></li>
    <li>💬 Ask me about Help, React, Education, Technology</li>
    <li>📫 How to reach me <a href="mailto:itisuniqueofficial@gmail.com">itisuniqueofficial@gmail.com</a></li>
-   <li>📄 Know about my experiences <a href="https://wwww.itisuniqueblog.com/">https://wwww.itisuniqueblog.com/</a></li>
+   <li>📄 Know about my experiences <a href="https://www.itisuniqueblog.com/">https://wwww.itisuniqueblog.com/</a></li>
    <li>⚡ Fun fact <b>I think I am</b> #BlogPosting</li>
 </ul>
 <div>
