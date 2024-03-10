@@ -3371,17 +3371,17 @@ cfAG.cnt = [
                 <b:widget id='LinkList3' locked='true' title='Useful Links' type='LinkList' version='2' visible='true'>
                   <b:widget-settings>
                     <b:widget-setting name='shownum'>5</b:widget-setting>
-                    <b:widget-setting name='link-3'>https://story.itisuniqueblog.com/</b:widget-setting>
+                    <b:widget-setting name='link-3'>https://edu.itisuniqueblog.com/</b:widget-setting>
                     <b:widget-setting name='sorting'>NONE</b:widget-setting>
-                    <b:widget-setting name='link-4'>https://www.itisuniqueblog.com/p/under-construction.html</b:widget-setting>
-                    <b:widget-setting name='text-1'>App WebSite</b:widget-setting>
-                    <b:widget-setting name='link-1'>https://app.itisuniqueblog.com/</b:widget-setting>
-                    <b:widget-setting name='text-0'>Blog WebSite</b:widget-setting>
-                    <b:widget-setting name='link-2'>https://edu.itisuniqueblog.com/</b:widget-setting>
-                    <b:widget-setting name='text-3'>Web Story WebSite</b:widget-setting>
-                    <b:widget-setting name='link-0'>https://www.itisuniqueblog.com/</b:widget-setting>
-                    <b:widget-setting name='text-2'>Education WebSite</b:widget-setting>
-                    <b:widget-setting name='text-4'>Under Construction</b:widget-setting>
+                    <b:widget-setting name='link-4'>https://story.itisuniqueblog.com/</b:widget-setting>
+                    <b:widget-setting name='text-1'>Blog WebSite</b:widget-setting>
+                    <b:widget-setting name='link-1'>https://www.itisuniqueblog.com/</b:widget-setting>
+                    <b:widget-setting name='text-0'>FAQs</b:widget-setting>
+                    <b:widget-setting name='link-2'>https://app.itisuniqueblog.com/</b:widget-setting>
+                    <b:widget-setting name='text-3'>Education WebSite</b:widget-setting>
+                    <b:widget-setting name='link-0'>https://www.itisuniqueblog.com/p/faqs.html</b:widget-setting>
+                    <b:widget-setting name='text-2'>App WebSite</b:widget-setting>
+                    <b:widget-setting name='text-4'>Web Story WebSite</b:widget-setting>
                   </b:widget-settings>
                   <b:includable id='main'>
                     <b:include name='content'/>
@@ -3690,6 +3690,7 @@ try {
 
 /*]]>*/</script>
 </b:if>
-  <b:comment><!--[ </body> close ]--></b:comment>
-  &lt;!--</body>--&gt;&lt;/body&gt;
+  
+    <b:comment><!--[ </body> close ]--></b:comment>
+    &lt;!--</body>--&gt;&lt;/body&gt;
 </html>
