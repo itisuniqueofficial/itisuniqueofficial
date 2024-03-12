@@ -3506,7 +3506,7 @@ cfAG.cnt = [
                       <data:content/>
                     </b:if>
                   </span>
-                  <span class='creator'>Redesign by <a href='https://www.aruf.my.id'>ARUF</a></span>
+                  <span class='creator'>Developer <a href='https://www.itisuniqueblog.com'>It Is Unique Official</a>.</span>
                 </div>
               </b:includable>
             </b:widget>
