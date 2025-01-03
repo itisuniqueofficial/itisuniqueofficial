@@ -1,8 +1,8 @@
-# **Welcome to It Is Unique Official** 🖤
+# **Welcome to My Hacking Corner** 🖤
 
 ![Banner Image](https://media.giphy.com/media/26u4eI4qow7dle8p6/giphy.gif)
 
-👾 **Jaydatt Khodave** - *Web Developer | Open-Source Contributor | Code Enthusiast*  
+👾 **[Your Name]** - *Web Developer | Open-Source Contributor | Code Enthusiast*  
 📍 Parbhani, Maharashtra, India
 
 ---
@@ -53,10 +53,6 @@ I am a **self-taught hacker**, **web developer**, and **open-source enthusiast**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=00ff00)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&card_width=400&langs_count=10)
-
-### GitHub Activity:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&bg_color=000000&color=00ff00&line=00ff00&point=ff0000&area=true)
 
 ---
 
