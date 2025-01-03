@@ -1,8 +1,8 @@
-# **Welcome to My Hacking Corner** 🖤
+# **Welcome to It Is Unique Official** 🖤
 
 ![Banner Image](https://media.giphy.com/media/26u4eI4qow7dle8p6/giphy.gif)
 
-👾 **[Your Name]** - *Web Developer | Open-Source Contributor | Code Enthusiast*  
+👾 **Jaydatt Khodave** - *Web Developer | Open-Source Contributor | Code Enthusiast*  
 📍 Parbhani, Maharashtra, India
 
 ---
