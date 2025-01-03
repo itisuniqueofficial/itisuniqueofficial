@@ -78,11 +78,11 @@ I am a **self-taught hacker**, **web developer**, and **open-source enthusiast**
 ## 🎯 **Let's Collaborate** 🤝
 
 - **👥 Open to Collaborations** – If you are passionate about hacking, coding, or open-source, feel free to drop me a message.
-- **📧 Contact:** You can reach me at [YourEmail](mailto:YourEmail)
+- **📧 Contact:** You can reach me at [contact@itisuniqueofficial.com](mailto:contact@itisuniqueofficial.com)
 - **🔗 Social Media:**
-  - [LinkedIn](YourLinkedInURL)
-  - [Twitter](YourTwitterURL)
-  - [Portfolio](YourPortfolioURL)
+  - [Instagram](https://www.instagram.com/itisuniqueofficial/)
+  - [Twitter](https://x.com/itisuniquex)
+  - [Telegram](https://t.me/itisuniqueofficial_channel)
 
 ---
 
