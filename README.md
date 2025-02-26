@@ -1,102 +1,58 @@
-# **Welcome to It Is Unique Official** 🖤
+# Hey there! 👋 I’m Jaydatt Khodave
 
-![Banner Image](https://media.giphy.com/media/26u4eI4qow7dle8p6/giphy.gif)
-
-👾 **Jaydatt Khodave** - *Web Developer | Open-Source Contributor | Code Enthusiast*  
-📍 Parbhani, Maharashtra, India
+![Profile Views](https://komarev.com/ghpvc/?username=itisuniqueofficial&color=blueviolet&style=flat-square)  
+*Crafting the web, one line of code at a time.*
 
 ---
 
-## 🖤 About Me
+## 🚀 About Me  
+I’m a passionate **Web Developer** specializing in **backend improvements**. I love building scalable, efficient systems and turning ideas into reality with code. Python is my go-to language, and I thrive in Linux environments.
 
-I am a **self-taught hacker**, **web developer**, and **open-source enthusiast**. I live and breathe **JavaScript**, **React**, **Node.js**, and everything tech. I am on a mission to write better code, solve real-world problems, and build open-source projects that will make an impact on the community. Let's build something awesome! 😎
-
-- **🛠️ Tech Stack:** JavaScript, React, Node.js, Express, MongoDB, MySQL, and more.
-- **🌱 Currently learning:** Advanced React patterns, WebAssembly, and Machine Learning.
-- **💻 Open to collaborations** – I enjoy building open-source projects and contributing to other people's work.
-- **⚡ Fun fact:** I can never get enough of **Linux**, **cybersecurity**, and **hacking**.
-
----
-
-## 💻 **Hacking Tools & Technologies** 🧑‍💻
-
-### 🔧 Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFCC00?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-
-### 🧠 Databases
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-### 🛡️ Cybersecurity
-
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C89?logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-167C4A?logo=wireshark&logoColor=white)
+- **Real Name**: Jaydatt Khodave  
+- **Hometown**: Parbhani, Maharashtra, India  
+- **Email**: [contact@itisuniqueofficial.com](mailto:contact@itisuniqueofficial.com)  
+- **GitHub**: [itisuniqueofficial](https://github.com/itisuniqueofficial)  
 
 ---
 
-## ⚡ **GitHub Stats & Activity** 💥
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark&icon_color=00ff00)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&card_width=400&langs_count=10)
-
----
-
-## 🔥 **Featured Projects** 💥
-
-### 1. **[Project 1 Name](ProjectLink)**
-   - 💡 **Description:** A full-stack web application using **React**, **Node.js**, and **MongoDB**.
-   - 🔧 **Tech Stack:** React, Node.js, MongoDB
-   - 🌐 **Live Demo:** [Click Here](ProjectDemoLink)
-
-### 2. **[Project 2 Name](ProjectLink)**
-   - 💡 **Description:** An advanced **Machine Learning** app built in **Python**.
-   - 🔧 **Tech Stack:** Python, TensorFlow, Flask
-   - 🌐 **Live Demo:** [Click Here](ProjectDemoLink)
-
-### 3. **[Project 3 Name](ProjectLink)**
-   - 💡 **Description:** A **Hacking Tools** collection I built for **Pentesting**.
-   - 🔧 **Tech Stack:** Kali Linux, Bash, Python
-   - 🌐 **Live Demo:** [Click Here](ProjectDemoLink)
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.youtube.com/@itisuniqueofficial_yt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://x.com/itisunique_x"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/itisuniqueofficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/itisuniqueofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ---
 
-## 🎯 **Let's Collaborate** 🤝
-
-- **👥 Open to Collaborations** – If you are passionate about hacking, coding, or open-source, feel free to drop me a message.
-- **📧 Contact:** You can reach me at [contact@itisuniqueofficial.com](mailto:contact@itisuniqueofficial.com)
-- **🔗 Social Media:**
-  - [Instagram](https://www.instagram.com/itisuniqueofficial/)
-  - [Twitter](https://x.com/itisuniquex)
-  - [Telegram](https://t.me/itisuniqueofficial_channel)
+## 🛠️ Tech I Love  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![RedOS](https://img.shields.io/badge/RedOS-EE0000?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## 💻 **Contributions & Open-Source** 🔥
-
-- 🦸‍♂️ I actively contribute to several open-source projects. Check out my repos and **star** your favorites!  
-- 💡 I love working on projects related to **cybersecurity**, **AI**, and **hacking** tools.
-
----
-
-### 🖤 **Connect with Me**
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## ✨ Fun Facts  
+- **Favorite Language**: Python 🐍  
+- **Favorite OS**: Ubuntu, Kali, RedOS  
+- I’m always experimenting with backend optimizations and open-source projects!
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&column=7)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itisuniqueofficial&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itisuniqueofficial&theme=radical" alt="GitHub Streak" width="420" />
+</p>
+
+---
+
+## 🎨 Animated Touch  
+![Coding Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+*“Code is poetry when it runs smoothly.”*
+
+---
+
+⭐ **Star my repos if you find them useful!**  
+Happy coding! 🚀
