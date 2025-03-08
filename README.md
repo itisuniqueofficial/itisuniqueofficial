@@ -56,7 +56,7 @@ I am a **Web Developer**, a spectral force commanding the backend’s darkest de
 
 ## 🎭 The Reaper’s Craft  
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWMxYzQyYzVjMjVjM2E5YzVjM2E5YzVjM2E5YzVjM2E5YzVjM2E5ZA&ep=v1_gifs_search&ct=g/xTiTnmgfPTiFi/giphy.gif" width="320" alt="Horror Coding Animation" />
+  <img src="https://i.giphy.com/gLKVCVdLUXMTeIs6MD.webp" width="320" alt="Horror Coding Animation" />
 </p>  
 *“The terminal howls as my code consumes the night.”*
 
